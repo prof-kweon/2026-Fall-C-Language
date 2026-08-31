@@ -1,6 +1,7 @@
 # How to Install MinGW64 on Windows
 
-## 1. **Download `mingw64.zip`.** (https://smart.wsu.ac.kr/mod/ubboard/article.php?id=1077386&bwid=223379)  
+## 1. **Download `mingw64.zip`.**   
+   LMS(https://smart.wsu.ac.kr/) Notice: https://smart.wsu.ac.kr/mod/ubboard/article.php?id=1077386&bwid=223379  
    Download the `mingw64.zip` file provided by your instructor.
 
 ## 2. **Extract the ZIP file.**  
