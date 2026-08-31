@@ -20,5 +20,5 @@ Then press **Enter**.
 ## 5. Done!
   If you see version information, the compiler is installed correctly.
 
-### Note
+## Note
   On macOS, the `gcc` command usually uses the **Apple Clang compiler**. This is fine for most C and C++ programming exercises.
