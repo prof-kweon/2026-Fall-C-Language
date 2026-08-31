@@ -8,3 +8,8 @@ This is a github for C programming language of Fall semester 2026
    ⏰ Office Hours   : Mon. ~ Thr. (13:00 ~ 17:00)  
 
 ---
+# **How to install GCC**
+
+## [For windows](./docs/markup/gcc_windows.md)
+
+## [For mac os](./docs/markup/gcc_mac.md)
