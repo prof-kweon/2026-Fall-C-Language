@@ -16,7 +16,6 @@ This is a github for C programming language of Fall semester 2026
 
 ---
 # **How to Connect VS Code to a GitHub Repository**
-Please use one of the three methods below
 
 ## [Connecting VSC & Github Repository](./docs/markup/vsc-github.md)
 
