@@ -13,3 +13,9 @@ This is a github for C programming language of Fall semester 2026
 ## [For windows](./docs/markup/gcc_windows.md)
 
 ## [For mac os](./docs/markup/gcc_mac.md)
+
+---
+# **How to Connect VS Code to a GitHub Repository**
+Please use one of the three methods below
+
+## [Using git ](./docs/markup/git.md)
