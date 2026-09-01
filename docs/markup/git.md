@@ -2,7 +2,7 @@
 
 ### 1. Installing Git
 - Download and install Git from [git-scm.com](https://git-scm.com/).
-- Open the VS Code terminal and check: 
+- Check the installation: 
   ```sh
   git --version
   ```
