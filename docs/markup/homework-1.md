@@ -1,6 +1,6 @@
 ## Verify the development environment
 Review the main.c file covered in today’s class using Visual Studio Code (VSC), run the program, and then add the source file to your GitHub repository.
-After completing the assignment, please reply to this email with the following information. 
+After completing the assignment, please send an email to the professor including the information below.
 
 Please include the following in your email:
   - C Section: C1, C2, or C3
