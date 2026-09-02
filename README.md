@@ -8,6 +8,11 @@ This is a github for C programming language of Fall semester 2026
    ⏰ Office Hours   : Mon. ~ Thr. (13:00 ~ 17:00)  
 
 ---
+# **Homework**
+
+## [Homework-1](./docs/markup/homework-1.md)
+
+---
 # **How to install GCC**
 
 ## [For windows](./docs/markup/gcc_windows.md)
