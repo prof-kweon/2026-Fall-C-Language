@@ -1,0 +1,3 @@
+#inlcude <stdio.>
+int main
+
