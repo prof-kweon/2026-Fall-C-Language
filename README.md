@@ -25,3 +25,10 @@ This is a github for C programming language of Fall semester 2026
 ## [Connecting VSC & Github Repository](./docs/markup/vsc-github.md)
 
 ## [General usage of Git](./docs/markup/git.md)
+
+---
+# **How to practice (http://61.81.98.89/)**
+
+## [Student Guide — C Programming](./docs/markup/dmoj-student.md)
+
+## [Professor Guide — C Programming](./docs/markup/dmoj-professor.md)
